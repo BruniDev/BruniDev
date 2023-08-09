@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 <img src="http://mazandi.herokuapp.com/api?handle=hyeon7427&theme=warm"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruniDev)](https://github.com/BruniDev/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruniDev)](https://github.com/BruniDev/github-readme-stats)
