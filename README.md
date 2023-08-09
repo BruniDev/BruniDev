@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeon7427)](https://solved.ac/hyeon7427)
 
 <img src="http://mazandi.herokuapp.com/api?handle=hyeon7427&theme=warm"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon7427)](https://github.com/hyeon7427/github-readme-stats)
