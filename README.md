@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeon7427)](https://solved.ac/hyeon7427)
 
-<img src="http://mazandi.herokuapp.com/api?handle={hyeon7427}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=hyeon7427&theme=warm"/>
