@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <img src="http://mazandi.herokuapp.com/api?handle=hyeon7427&theme=warm"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon7427)](https://github.com/hyeon7427/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeondxx)](https://github.com/hyeondxx/github-readme-stats)
