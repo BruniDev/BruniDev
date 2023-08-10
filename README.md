@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruniDev)](https://github.com/BruniDev/github-readme-stats)
 
+<a href="https://opgc.me/#/users/BruniDev" target="_blank"><img src="https://api.opgc.me/githubs/users/BruniDev/tag/?theme=basic" /></a>
 
