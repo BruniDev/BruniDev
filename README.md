@@ -24,7 +24,11 @@ Love to Coding , Love to Develop
 
 ## 🛠️ Tech Stack
 
-<img alt = "#3776AB" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img alt = "#F05138" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" /> <img alt = "#007396" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white" /> <img alt = "#02569B" src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> <img alt = "#00599C" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <img alt = "#A8B9CC" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white" /> <img alt = "#0175C2"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />
+### Main Tech
+ <img alt = "#F05138" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" /> 
+
+### Tech I have used at least once
+ <img alt = "#007396" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />  <img alt = "#00599C" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <img alt = "#A8B9CC" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white" /> <img alt = "#02569B" src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> <img alt = "#0175C2"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" /> <img alt = "#3776AB" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 
 
 
