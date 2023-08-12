@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Welcome To MySpace 🙇‍♂️
 
-Hi there. I'm Junghyeon Kim(Bruni)
+Hi there. I'm Junghyeon Kim(Bruni) <br/>
 a developer from Republic of Korea 🇰🇷
 
 ## 💬 About me
