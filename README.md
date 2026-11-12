@@ -1,45 +1,36 @@
-<!--
-**BruniDev/BruniDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Bruni (Junghyeon Kim) 👋
 
-Here are some ideas to get you started:
+**Game Product Manager** from Korea 🇰🇷 — a former developer who now builds and runs games end to end, from specs to live-ops.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Welcome To MySpace 🙇‍♂️
+## 🎮 What I do
 
-Hi there. I'm Junghyeon Kim(Bruni) <br/>
-a developer from Republic of Korea 🇰🇷
+- **Product & live-ops**: roadmaps, feature specs, release management, and live-service operations for mobile and web3 games
+- **Data-driven decisions**: KPI dashboards and funnel analysis with Mixpanel / Amplitude
+- **Platform launches**: shipped on iOS, Android, Telegram MiniApp and LINE MiniApp
+- **Dev-friendly PM**: I write specs engineers can build from, because I used to be one
+- **Global collaboration**: I work in Korean, English and Japanese
 
-## 💬 About me
+## 💼 Experience
 
-I am now iOS developer 👨🏻‍💻 <br/>
-Love to Coding , Love to Develop
+| Period | Company | Role |
+|---|---|---|
+| 2025.06 – 2026.10 | **Spekter Games** | Product Manager (development & business) · *Spekter Agency*, *Spekter City* |
+| 2024.10 – 2025.06 | **KIWONTECH** | Project Manager, B2B software |
 
-## 🛠️ Tech Stack
+## 🕹️ Side project — Brachy Studio
 
-### 💻 Main Tech 
- <img alt = "#F05138" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" /> 
+Building **《6PM: Sneak Out!》** solo in Unity / C#: a pixel-art stealth game about getting out of the office at 6 PM without being caught by the boss. Target: TIGS 2027.
 
-### 💻 Tech I have used at least once
- <img alt = "#007396" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />  <img alt = "#00599C" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <img alt = "#A8B9CC" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white" /> <img alt = "#02569B" src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> <img alt = "#0175C2"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" /> <img alt = "#3776AB" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+## 🛠️ Toolbox
 
-### 🧐 Most Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruniDev)](https://github.com/BruniDev/github-readme-stats)
+**Product**: Jira · Notion · Figma · Mixpanel · Amplitude
+**Dev**: Swift · Unity (C#) · Python · Flutter (Dart)
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBruniDev%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) -->
+## 🎓 Background
 
-## ✏️ BaekJoon Stats
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeon7427)](https://solved.ac/hyeon7427) <img src="http://mazandi.herokuapp.com/api?handle=hyeon7427&theme=warm"/>
+- B.S. Software, Ajou University
+- Apple Developer Academy @ POSTECH (iOS)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruniDev&show_icons=true&theme=radical)
--->
+## 📫 Contact
 
-
+[LinkedIn](https://www.linkedin.com/in/YOUR-ID) · [Email](mailto:YOUR-EMAIL)
