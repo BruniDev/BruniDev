@@ -1,4 +1,4 @@
-# Hi, I'm Bruni (Junghyeon Kim) 👋
+# Hi, I'm Bruni 👋
 
 **Game Product Manager** from Korea 🇰🇷 — a former developer who now builds and runs games end to end, from specs to live-ops.
 
@@ -33,4 +33,4 @@ Building **《6PM: Sneak Out!》** solo in Unity / C#: a pixel-art stealth game 
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-ID) · [Email](mailto:YOUR-EMAIL)
+[LinkedIn](https://www.linkedin.com/in/brunikim) · [Email](mailto:hyeondxx@gmail.com)
